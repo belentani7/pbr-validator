@@ -1,4 +1,4 @@
-# pbr-validator
+﻿# pbr-validator
 
 Validates PBR texture sets for correctness and compatibility with game engines (Unreal Engine, Unity, Godot).
 
@@ -29,7 +29,7 @@ pip install pbr-validator
 Or from source:
 
 ```bash
-git clone https://github.com/user/pbr-validator.git
+git clone https://github.com/belentani7/pbr-validator.git
 cd pbr-validator
 pip install -e .
 ```
